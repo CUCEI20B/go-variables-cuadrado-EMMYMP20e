@@ -8,5 +8,5 @@ func main() {
 	fmt.Scan(&base)
 
 	area := base * base
-	fmt.Println("Área del cuadrado: ", area)
+	fmt.Println(area)
 }
