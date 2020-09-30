@@ -3,8 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var base float64
-	fmt.Print("Longitud de la base: ")
+	var base int
 	fmt.Scan(&base)
 
 	area := base * base
